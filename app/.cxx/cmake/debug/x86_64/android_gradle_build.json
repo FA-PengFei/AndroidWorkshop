@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/gt-yupf/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/gt-yupf/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "n0h4ts-Debug-x86_64": {
+      "buildCommandComponents": [
+        "/Users/gt-yupf/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86_64",
+        "n0h4ts"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "n0h4ts",
+      "output": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/build/intermediates/cmake/debug/obj/x86_64/libn0h4ts.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

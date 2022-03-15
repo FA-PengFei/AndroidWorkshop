@@ -1,0 +1,3 @@
+/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86/CMakeFiles/n0h4ts.dir

@@ -1,0 +1,3 @@
+/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/n0h4ts.dir
