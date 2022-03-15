@@ -18,7 +18,7 @@ public class First2Fragment extends Fragment {
 
     @Override
     public View onCreateView(
-            LayoutInflater inflater, ViewGroup container,
+            @NonNull LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState
     ) {
 
@@ -30,17 +30,14 @@ public class First2Fragment extends Fragment {
     public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
-        binding.buttonFirst.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                if (BrowniesChecker.areYouSure()) {
-                    NavHostFragment.findNavController(First2Fragment.this)
-                            .navigate(R.id.action_First2Fragment_to_Second2Fragment);
-                }
-                else
-                    {
-                        Snackbar.make(view, "IT IS NOT SO EASY LMAO", Snackbar.LENGTH_LONG).show();
-                }
+        binding.buttonFirst.setOnClickListener(view1 -> {
+            if (BrowniesChecker.areYouSure()) {
+                NavHostFragment.findNavController(First2Fragment.this)
+                        .navigate(R.id.action_First2Fragment_to_Second2Fragment);
+            }
+            else
+                {
+                    Snackbar.make(view1, "IT IS NOT SO EASY LMAO", Snackbar.LENGTH_LONG).show();
             }
         });
     }
