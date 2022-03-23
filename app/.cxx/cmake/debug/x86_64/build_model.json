@@ -6,12 +6,12 @@
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86_64",
-  "cxxBuildFolder": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86_64",
-  "abiPlatformVersion": 17,
+  "originalCxxBuildFolder": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/x86_64",
+  "cxxBuildFolder": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/x86_64",
+  "abiPlatformVersion": 19,
   "cmake": {
-    "cmakeWrappingBaseFolder": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cxx/debug/x86_64",
-    "cmakeArtifactsBaseFolder": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86_64",
+    "cmakeWrappingBaseFolder": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cxx/debug/x86_64",
+    "cmakeArtifactsBaseFolder": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/x86_64",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -19,13 +19,13 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86_64",
-      "cmakeToolchain": "/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
-      "cmakeExecutable": "/Users/gt-yupf/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+      "buildRoot": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/x86_64",
+      "cmakeToolchain": "/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmakeExecutable": "/Users/johnnyveryenglish/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
       "variables": [
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/prefab/x86_64/prefab"
+          "value": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/prefab/x86_64/prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -33,7 +33,7 @@
         },
         {
           "name": "CMAKE_TOOLCHAIN_FILE",
-          "value": "/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake"
+          "value": "/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake"
         },
         {
           "name": "ANDROID_ABI",
@@ -41,11 +41,11 @@
         },
         {
           "name": "ANDROID_NDK",
-          "value": "/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529"
+          "value": "/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529"
         },
         {
           "name": "ANDROID_PLATFORM",
-          "value": "android-17"
+          "value": "android-19"
         },
         {
           "name": "CMAKE_ANDROID_ARCH_ABI",
@@ -53,7 +53,7 @@
         },
         {
           "name": "CMAKE_ANDROID_NDK",
-          "value": "/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529"
+          "value": "/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529"
         },
         {
           "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
@@ -61,15 +61,15 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/build/intermediates/cmake/debug/obj/x86_64"
+          "value": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/build/intermediates/cmake/debug/obj/x86_64"
         },
         {
           "name": "CMAKE_RUNTIME_OUTPUT_DIRECTORY",
-          "value": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/build/intermediates/cmake/debug/obj/x86_64"
+          "value": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/build/intermediates/cmake/debug/obj/x86_64"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
-          "value": "/Users/gt-yupf/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
+          "value": "/Users/johnnyveryenglish/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
         },
         {
           "name": "CMAKE_SYSTEM_NAME",
@@ -77,19 +77,19 @@
         },
         {
           "name": "CMAKE_SYSTEM_VERSION",
-          "value": "17"
+          "value": "19"
         }
       ]
     },
-    "cmakeServerLogFile": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86_64/cmake_server_log.txt"
+    "cmakeServerLogFile": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/x86_64/cmake_server_log.txt"
   },
   "variant": {
     "buildSystemArgumentList": [],
     "cFlagsList": [],
     "cppFlagsList": [],
     "variantName": "debug",
-    "objFolder": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/build/intermediates/cmake/debug/obj",
-    "soFolder": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/build/intermediates/cmake/debug/obj",
+    "soFolder": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/build/intermediates/cmake/debug/lib",
     "isDebuggableEnabled": true,
     "validAbiList": [
       "ARMEABI_V7A",
@@ -101,15 +101,15 @@
     "implicitBuildTargetSet": [],
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "module": {
-      "cxxFolder": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx",
+      "cxxFolder": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx",
       "splitsAbiFilterSet": [],
-      "intermediatesFolder": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/build/intermediates",
+      "intermediatesFolder": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/build/intermediates",
       "gradleModulePathName": ":app",
-      "moduleRootFolder": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app",
-      "moduleBuildFile": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/build.gradle",
-      "makeFile": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/src/main/cpp/CMakeLists.txt",
+      "moduleRootFolder": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app",
+      "moduleBuildFile": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/build.gradle",
+      "makeFile": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/src/main/cpp/CMakeLists.txt",
       "buildSystem": "CMAKE",
-      "ndkFolder": "/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529",
+      "ndkFolder": "/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529",
       "ndkVersion": "21.4.7075529",
       "ndkSupportedAbiList": [
         "ARMEABI_V7A",
@@ -172,31 +172,31 @@
           "default": true
         }
       ],
-      "originalCmakeToolchainFile": "/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
-      "cmakeToolchainFile": "/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "originalCmakeToolchainFile": "/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmakeToolchainFile": "/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
       "cmake": {
         "isValidCmakeAvailable": true,
-        "cmakeExe": "/Users/gt-yupf/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+        "cmakeExe": "/Users/johnnyveryenglish/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
         "minimumCmakeVersion": "3.10.2",
-        "ninjaExe": "/Users/gt-yupf/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "ninjaExe": "/Users/johnnyveryenglish/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
         "isPreferCmakeFileApiEnabled": true
       },
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
-          "ARMEABI_V7A": "/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
-          "ARM64_V8A": "/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
-          "X86": "/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
-          "X86_64": "/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+          "ARMEABI_V7A": "/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
         },
         "LIBCXX_STATIC": {},
         "NONE": {},
         "SYSTEM": {}
       },
       "project": {
-        "rootBuildGradleFolder": "/Users/gt-yupf/AndroidStudioProjects/Piratemap",
-        "cxxFolder": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/.cxx",
-        "compilerSettingsCacheFolder": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/.cxx",
-        "sdkFolder": "/Users/gt-yupf/Library/Android/sdk",
+        "rootBuildGradleFolder": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop",
+        "cxxFolder": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/.cxx",
+        "compilerSettingsCacheFolder": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/.cxx",
+        "sdkFolder": "/Users/johnnyveryenglish/Library/Android/sdk",
         "isNativeCompilerSettingsCacheEnabled": false,
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
@@ -205,10 +205,10 @@
       },
       "nativeBuildOutputLevel": "QUIET"
     },
-    "prefabDirectory": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/prefab"
+    "prefabDirectory": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/prefab"
   },
   "buildSettings": {
     "environmentVariables": []
   },
-  "prefabFolder": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/prefab/x86_64"
+  "prefabFolder": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/prefab/x86_64"
 }

@@ -1,7 +1,7 @@
 [
 {
-  "directory": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86",
-  "command": "/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android17 --gcc-toolchain=/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dn0h4ts_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/n0h4ts.dir/n0h4ts.cpp.o -c /Users/gt-yupf/AndroidStudioProjects/Piratemap/app/src/main/cpp/n0h4ts.cpp",
-  "file": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/src/main/cpp/n0h4ts.cpp"
+  "directory": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/x86",
+  "command": "/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android19 --gcc-toolchain=/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dn0h4ts_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/n0h4ts.dir/n0h4ts.cpp.o -c /Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/src/main/cpp/n0h4ts.cpp",
+  "file": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/src/main/cpp/n0h4ts.cpp"
 }
 ]

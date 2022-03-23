@@ -1,32 +1,32 @@
 {
   "buildFiles": [
-    "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/src/main/cpp/CMakeLists.txt"
+    "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/src/main/cpp/CMakeLists.txt"
   ],
   "cleanCommandsComponents": [
     [
-      "/Users/gt-yupf/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "/Users/johnnyveryenglish/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
       "-C",
-      "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86",
+      "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/x86",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
-    "/Users/gt-yupf/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "/Users/johnnyveryenglish/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
     "-C",
-    "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86",
+    "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/x86",
     "{LIST_OF_TARGETS_TO_BUILD}"
   ],
   "libraries": {
     "n0h4ts-Debug-x86": {
       "artifactName": "n0h4ts",
       "buildCommandComponents": [
-        "/Users/gt-yupf/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "/Users/johnnyveryenglish/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
         "-C",
-        "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/x86",
+        "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/x86",
         "n0h4ts"
       ],
       "abi": "x86",
-      "output": "/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/build/intermediates/cmake/debug/obj/x86/libn0h4ts.so",
+      "output": "/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/build/intermediates/cmake/debug/obj/x86/libn0h4ts.so",
       "runtimeFiles": []
     }
   }

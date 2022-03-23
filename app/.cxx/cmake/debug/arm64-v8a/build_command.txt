@@ -1,21 +1,21 @@
-                    Executable : /Users/gt-yupf/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+                    Executable : /Users/johnnyveryenglish/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
 arguments : 
--H/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/src/main/cpp
--DCMAKE_FIND_ROOT_PATH=/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/prefab/arm64-v8a/prefab
+-H/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/src/main/cpp
+-DCMAKE_FIND_ROOT_PATH=/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/prefab/arm64-v8a/prefab
 -DCMAKE_BUILD_TYPE=Debug
--DCMAKE_TOOLCHAIN_FILE=/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake
+-DCMAKE_TOOLCHAIN_FILE=/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake
 -DANDROID_ABI=arm64-v8a
--DANDROID_NDK=/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529
--DANDROID_PLATFORM=android-17
+-DANDROID_NDK=/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529
+-DANDROID_PLATFORM=android-19
 -DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
--DCMAKE_ANDROID_NDK=/Users/gt-yupf/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_ANDROID_NDK=/Users/johnnyveryenglish/Library/Android/sdk/ndk/21.4.7075529
 -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/build/intermediates/cmake/debug/obj/arm64-v8a
--DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/build/intermediates/cmake/debug/obj/arm64-v8a
--DCMAKE_MAKE_PROGRAM=/Users/gt-yupf/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/build/intermediates/cmake/debug/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/build/intermediates/cmake/debug/obj/arm64-v8a
+-DCMAKE_MAKE_PROGRAM=/Users/johnnyveryenglish/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
 -DCMAKE_SYSTEM_NAME=Android
--DCMAKE_SYSTEM_VERSION=17
--B/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/.cxx/cmake/debug/arm64-v8a
+-DCMAKE_SYSTEM_VERSION=19
+-B/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/.cxx/cmake/debug/arm64-v8a
 -GNinja
 jvmArgs : 
 

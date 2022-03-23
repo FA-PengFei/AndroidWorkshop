@@ -1,1 +1,1 @@
-/Users/gt-yupf/AndroidStudioProjects/Piratemap/app/src/main/cpp/CMakeLists.txt
+/Users/johnnyveryenglish/Desktop/Projects/AndroidWorkshop/app/src/main/cpp/CMakeLists.txt
